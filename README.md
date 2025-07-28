@@ -1,2 +1,4 @@
 # Appointment-app
-Doctors Appointment app
+Doctors Appointment app for patients
+
+
